@@ -1,0 +1,16 @@
+{
+  "name": "openclaw-activity-tracker",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "openclaw": {
+    "extensions": ["./index.js"],
+    "compat": {
+      "pluginApi": ">=2026.3.30",
+      "minGatewayVersion": "2026.3.30"
+    }
+  },
+  "dependencies": {
+    "@sinclair/typebox": "^0.32.15"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "daily-activity-tracker",
+  "name": "Daily Activity Tracker",
+  "description": "A plugin to track daily activities and store them.",
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false
+  }
+}
