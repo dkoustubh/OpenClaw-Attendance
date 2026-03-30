@@ -107,4 +107,4 @@ Configure your `openclaw.json` or `.env` for seamless model switching:
 ---
 
 ## 📜 License
-ISC License. Built with ❤️ for the OpenClaw community.
+ISC License. Built with ❤️ by Koustubh Deodhar using the OpenClaw community.
